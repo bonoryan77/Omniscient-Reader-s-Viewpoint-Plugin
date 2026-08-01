@@ -1,0 +1,11 @@
+name: Engine_v1.0
+version: '1.0'
+main: org.mdgmi.enginev1.Enginev1
+api-version: '1.21'
+commands:
+  character:
+    description: Character Select of Omniscient Reader's Viewpoint
+    usage: /character
+depend:
+  - Citizens
+  - Sentinel
